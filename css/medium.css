@@ -1,0 +1,46 @@
+.bg-yellow{
+    background-color: #FFC017;
+}
+
+.btn-border{
+    border-radius: 99em;
+    background-color: black;
+    color: white;
+    padding: 7px 16px 9px;
+}
+.btn-border-white{
+    border-radius: 99em;
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    padding: 7px 16px 9px;
+}
+
+.sticker{
+    border-radius: 100px;
+    background-color: rgba(242, 242, 242, 1);
+    color: rgba(117, 117, 117, 1);
+    padding: 2px 8px;}
+
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+}
+
+.border-navbar{
+    border-bottom: 1px solid black;
+}
+.border-bottom{
+    border-bottom: 1px solid black;
+}
+
+.content-font{
+    font-family: 'Roboto Serif', sans-serif;
+    font-weight: bolder;
+}
+.img-margin{
+    margin-top:50px
+}
+h6{
+    font-weight: bold;
+}
