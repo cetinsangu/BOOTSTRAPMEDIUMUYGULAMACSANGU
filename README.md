@@ -1,17 +1,9 @@
-# Patika.dev
+# ÇETİN SANĞU
 
 ## Bootstrap | Medium Homepage Clone
 
-
-### First Part
-
-<img src="img/medium.png">
-
+<img src="img/gorsel1.png">
 <br><br>
-
-
-### Second Part
-
-<img src="img/medium-2.png">
-
+<img src="img/gorsel2.png">
 <br><br>
+<img src="img/gorsel3.png">
